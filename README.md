@@ -40,6 +40,7 @@
 
 <img src="https://github.com/user-attachments/assets/eaf2051e-d9d8-43e3-99e4-57040cacc181" width="20"/> **Soomsil V2** -숭실대 학생들을 위한 통합 편의 서비스 
 </br>
+</br>
 
 ### **🏫 Education**
 - 2019 ~ 2024 숭실대학교 산업정보시스템공학과 재학중 
