@@ -29,7 +29,7 @@
 </br>
 
 ### **💪 Project**
-<img src="https://github.com/user-attachments/assets/81519bef-7e7c-4752-b617-d7437a833ec7" width="20"/> **Smeem** -일기로 시작하는 외국어 훈련, 외국어 학습 서비스 스밈 ([Github](https://github.com/Team-Smeme/smeem-aos) / [Play Store](https://play.google.com/store/games?device=windows))
+<img src="https://github.com/user-attachments/assets/81519bef-7e7c-4752-b617-d7437a833ec7" width="20"/> **Smeem** -일기로 시작하는 외국어 훈련, 외국어 학습 서비스 스밈 ([Github](https://github.com/Team-Smeme/smeem-aos) / [Play Store](https://play.google.com/store/apps/details?id=com.sopt.smeem))
 </br>
 
 <img src="https://github.com/user-attachments/assets/38a7d022-1594-4e0e-b17e-ad302339a6a2" width="20"/> **Sparkle** -연인과 짜릿한 미션 승부를 통한 소원권 내기 서비스  ([Github](https://github.com/U-is-Ni-in-Korea/Android-United)) 
