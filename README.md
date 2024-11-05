@@ -26,6 +26,7 @@
 
 ### **⚛️ Open Source Contribution**
 - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/318)
+- [GetStream/whasApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose/pull/289#pullrequestreview-2414404611)
 </br>
 
 ### **💪 Project**
