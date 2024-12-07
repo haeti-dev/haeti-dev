@@ -30,16 +30,19 @@
 </br>
 
 ### **💪 Project**
-<img src="https://github.com/user-attachments/assets/81519bef-7e7c-4752-b617-d7437a833ec7" width="20"/> **Smeem** -일기로 시작하는 외국어 훈련, 외국어 학습 서비스 스밈 ([Github](https://github.com/Team-Smeme/smeem-aos) / [Play Store](https://play.google.com/store/apps/details?id=com.sopt.smeem))
+<img src="https://github.com/user-attachments/assets/08bc3008-58ca-4101-af16-1f92eb2c1015" width="20"/> **Mapisode** - 매순간의 에피소드, 매피소드 ([Github](https://github.com/boostcampwm-2024/and05-MAPISODE))
 </br>
 
-<img src="https://github.com/user-attachments/assets/38a7d022-1594-4e0e-b17e-ad302339a6a2" width="20"/> **Sparkle** -연인과 짜릿한 미션 승부를 통한 소원권 내기 서비스  ([Github](https://github.com/U-is-Ni-in-Korea/Android-United)) 
+<img src="https://github.com/user-attachments/assets/81519bef-7e7c-4752-b617-d7437a833ec7" width="20"/> **Smeem** - 일기로 시작하는 외국어 훈련, 외국어 학습 서비스 스밈 ([Github](https://github.com/Team-Smeme/smeem-aos) / [Play Store](https://play.google.com/store/apps/details?id=com.sopt.smeem))
 </br>
 
-<img src="https://github.com/user-attachments/assets/b6887de1-f2ae-4666-a1be-882f519b6d25" width="20"/> **Santa manitto** -우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스  ([Github](https://github.com/manito-project/manitto-android) / [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)) 
+<img src="https://github.com/user-attachments/assets/38a7d022-1594-4e0e-b17e-ad302339a6a2" width="20"/> **Sparkle** - 연인과 짜릿한 미션 승부를 통한 소원권 내기 서비스  ([Github](https://github.com/U-is-Ni-in-Korea/Android-United)) 
 </br>
 
-<img src="https://github.com/user-attachments/assets/eaf2051e-d9d8-43e3-99e4-57040cacc181" width="20"/> **Soomsil V2** -숭실대 학생들을 위한 통합 편의 서비스 
+<img src="https://github.com/user-attachments/assets/b6887de1-f2ae-4666-a1be-882f519b6d25" width="20"/> **Santa manitto** - 우리 사이 얼음같은 정적을 깨어 줄 아이스브레이킹, 마니또 매칭 서비스  ([Github](https://github.com/manito-project/manitto-android) / [Play Store](https://play.google.com/store/apps/details?id=org.sopt.santamanitto)) 
+</br>
+
+<img src="https://github.com/user-attachments/assets/eaf2051e-d9d8-43e3-99e4-57040cacc181" width="20"/> **Soomsil V2** - 숭실대 학생들을 위한 통합 편의 서비스 
 </br>
 </br>
 
