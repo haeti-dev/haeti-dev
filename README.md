@@ -21,7 +21,7 @@
 </br>
 
 <img src="https://github.com/user-attachments/assets/f6f1081e-633e-417d-90b9-02ca69a7db65" width="20"/> 네이버 부스트캠프 맴버쉽
-- Android Camper <sub><sup>2024.08 - </sup></sub>
+- Android Camper <sub><sup>2024.08 - 2024.12</sup></sub>
 </br>
 
 ### **⚛️ Open Source Contribution**
