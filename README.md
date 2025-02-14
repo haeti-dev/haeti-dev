@@ -47,7 +47,7 @@
 </br>
 
 ### **✍️ Blog**
-- [티뱃여우의 개발 이야기](https://haeti.palms.blog/)
+- [Haeti.log](https://haeti.palms.blog/)
 </br>
 
 ### **🏫 Education**
