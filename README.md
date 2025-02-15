@@ -20,7 +20,7 @@
 - Android Camper <sub><sup>2024.08 - 2024.12</sup></sub>
 </br>
 
-<img src="https://github.com/user-attachments/assets/ef94de93-0281-4b9c-9ddc-2abd13d4118d" width="20"/> YourSSU
+<img src="https://github.com/user-attachments/assets/ef94de93-0281-4b9c-9ddc-2abd13d4118d" width="20"/> [YourSSU](https://yourssu.com/)
 - Android Developer <sub><sup>2023.04 ~ 2024.08</sup></sub>
 </br>
 
