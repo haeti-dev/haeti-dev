@@ -12,12 +12,8 @@
   - **Android YB**
 </br>
 
-<img src="https://github.com/user-attachments/assets/34e8a405-4209-4ef4-9681-234bc27f7985" width="20"/> [네이버 부스트캠프 Web·Mobile 챌린지](https://boostcamp.connect.or.kr/program_wm.html)
-- Android Camper <sub><sup>2024.07 - 2024.08</sup></sub>
-</br>
-
-<img src="https://github.com/user-attachments/assets/f6f1081e-633e-417d-90b9-02ca69a7db65" width="20"/> [네이버 부스트캠프 Web·Mobile 맴버쉽](https://boostcamp.connect.or.kr/program_wm.html)
-- Android Camper <sub><sup>2024.08 - 2024.12</sup></sub>
+<img src="https://github.com/user-attachments/assets/f6f1081e-633e-417d-90b9-02ca69a7db65" width="20"/> [네이버 부스트캠프 Web·Mobile 챌린지 / 맴버쉽](https://boostcamp.connect.or.kr/program_wm.html)
+- Android Camper <sub><sup>2024.07 - 2024.12</sup></sub>
 </br>
 
 <img src="https://github.com/user-attachments/assets/ef94de93-0281-4b9c-9ddc-2abd13d4118d" width="20"/> [YourSSU](https://yourssu.com/)
