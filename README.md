@@ -25,6 +25,10 @@
 - [GetStream/whasApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose/pull/289#pullrequestreview-2414404611)
 </br>
 
+### **🎤 Speaker Exeperience**
+- [From Where to Wear : 모바일 개발자가 워치에서 얻은 인사이트](https://speakerdeck.com/haeti2/gdg-super-dot-init-version-equals-6-from-where-to-wear-mobail-gaebaljaga-weocieseo-balgyeonhan-insaiteu) - GDG Korea Android Super.init(version=6)
+
+
 ### **💪 Project**
 <img src="https://github.com/user-attachments/assets/08bc3008-58ca-4101-af16-1f92eb2c1015" width="20"/> **Mapisode** - 매순간의 에피소드, 매피소드 ([Github](https://github.com/boostcampwm-2024/and05-MAPISODE))
 </br>
