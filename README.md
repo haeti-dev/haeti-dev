@@ -21,7 +21,8 @@
 </br>
 
 ### **⚛️ Open Source Contribution**
-- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/318)
+- [droidknights2024/DroidKnightsApp - Baseline Profile](https://github.com/droidknights/DroidKnightsApp/pull/318)
+- [droidKnights2025/DroidKnightsApp - KMP/CMP Ktor API Connect](https://github.com/droidknights/DroidKnightsApp/pull/522)
 - [GetStream/whasApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose/pull/289#pullrequestreview-2414404611)
 </br>
 
