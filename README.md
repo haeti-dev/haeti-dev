@@ -2,6 +2,13 @@
 </br>
 
 ### **🤟 Activities**
+<img src="https://github.com/user-attachments/assets/d33d422d-c8a1-4d07-83f5-4bc4e2d551b1" width="20"/> [Nexters](https://nexters.co.kr/)   
+- **28th** <sub><sup>2025.09 ~ </sup></sub>
+  - **CEO** 
+- **27th** <sub><sup>2025.07 - 2025.08</sup></sub>
+  - **Android Developer** 
+</br>
+
 <img src="https://github.com/chattymin/chattymin/assets/52882799/fbe6681a-39f8-4d50-9080-a9c98c953e25" width="20"/> [SOPT](https://www.sopt.org)   
 - **33rd DO SOPT** <sub><sup>2023.08 - 2024.01</sup></sub>
   - **Android 파트장** 
