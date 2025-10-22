@@ -2,7 +2,7 @@
 </br>
 
 ### **🤟 Activities**
-<img src="https://github.com/user-attachments/assets/d33d422d-c8a1-4d07-83f5-4bc4e2d551b1" width="20"/> [Nexters](https://nexters.co.kr/)   
+<img src="https://github.com/user-attachments/assets/ebf5fbb7-5288-461e-bbcb-2e109b0703fd" width="20"/> [Nexters](https://nexters.co.kr/)   
 - **28th** <sub><sup>2025.09 ~ </sup></sub>
   - **CEO** 
 - **27th** <sub><sup>2025.07 - 2025.08</sup></sub>
