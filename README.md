@@ -39,6 +39,13 @@
 </br>
 
 ### **💪 Project**
+<img src="https://github.com/user-attachments/assets/4d34c8e2-b3da-4911-95cc-652a815768ac" width="20"/> **Emotia** - 감정 치유 서비스 ([Github](https://github.com/Nexters/team-ace-client) / [Play Store](https://play.google.com/store/apps/details?id=com.nexters.emotia
+)) 
+</br>
+
+<img src="https://github.com/user-attachments/assets/458e1370-a3ce-4de0-8b11-6704ef8ff78c" width="20"/> **또 Lie** - 거짓말 탐지기 워치 게임 ([Github](https://github.com/haeti-dev/ddo-lie-wear-os) / [Play Store](https://play.google.com/store/apps/details?id=com.haeti.ddolie
+))  
+
 <img src="https://github.com/user-attachments/assets/08bc3008-58ca-4101-af16-1f92eb2c1015" width="20"/> **Mapisode** - 매순간의 에피소드, 매피소드 ([Github](https://github.com/boostcampwm-2024/and05-MAPISODE))
 </br>
 
