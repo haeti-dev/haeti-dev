@@ -3,7 +3,7 @@
 
 ### **🤟 Activities**
 <img src="https://github.com/user-attachments/assets/ebf5fbb7-5288-461e-bbcb-2e109b0703fd" width="20"/> [Nexters](https://nexters.co.kr/)   
-- **28th** <sub><sup>2025.09 ~ </sup></sub>
+- **28th** <sub><sup>2025.09 ~ 2026.02</sup></sub>
   - **CEO** 
 - **27th** <sub><sup>2025.07 - 2025.08</sup></sub>
   - **Android Developer** 
