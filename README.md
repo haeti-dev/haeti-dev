@@ -42,9 +42,9 @@
 
 ### 🤟 Activities
  
-<img src="https://github.com/user-attachments/assets/ebf5fbb7-5288-461e-bbcb-2e109b0703fd" width="20"/> [**Nexters**](https://nexters.co.kr/) — 28th 회장 (CEO) · 27th Android Developer <sub><sup>2025.07 ~ 2026.02</sup></sub>
+<img src="https://github.com/user-attachments/assets/ebf5fbb7-5288-461e-bbcb-2e109b0703fd" width="20"/> [**Nexters**](https://nexters.co.kr/) — 28th 회장 · 27th Android Developer <sub><sup>2025.07 ~ 2026.02</sup></sub>
  
-<img src="https://github.com/chattymin/chattymin/assets/52882799/fbe6681a-39f8-4d50-9080-a9c98c953e25" width="20"/> [**SOPT**](https://www.sopt.org) — 31st·32nd(MVP)·33rd(**Android 파트장**) <sub><sup>2022.09 ~ 2024.01</sup></sub>
+<img src="https://github.com/chattymin/chattymin/assets/52882799/fbe6681a-39f8-4d50-9080-a9c98c953e25" width="20"/> [**SOPT**](https://www.sopt.org) — 31st·32nd (MVP)·33rd (**Android 파트장**) <sub><sup>2022.09 ~ 2024.01</sup></sub>
  
 <img src="https://github.com/user-attachments/assets/f6f1081e-633e-417d-90b9-02ca69a7db65" width="20"/> [**네이버 부스트캠프**](https://boostcamp.connect.or.kr/program_wm.html) — Android 챌린지 · 멤버십 수료 <sub><sup>2024.07 ~ 2024.12</sup></sub>
  
