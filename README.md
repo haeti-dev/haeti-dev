@@ -28,7 +28,7 @@
 <br/>
 
 ### 🎤 Speaker Experience
- 
+- **이 함수, 실패하면 어떻게 되나요? null부터 Rich Errors까지, Kotlin 에러 처리 15년** — [KotlinConf Extended 2026](https://speakerdeck.com/haeti2/i-hamsu-silpaehamyeon-eoddeohge-doenayo-nullbuteo-rich-errorsggaji-kotlin-ereo-ceori-15nyeon) · 2026.08
 - **From Where to Wear: 모바일 개발자가 워치에서 얻은 인사이트** — [GDG Korea Android · Super.init(version=6)](https://speakerdeck.com/haeti2/gdg-super-dot-init-version-equals-6-from-where-to-wear-mobail-gaebaljaga-weocieseo-balgyeonhan-insaiteu) · 2025.03
 <br/>
 
